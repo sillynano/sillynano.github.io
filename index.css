@@ -1,0 +1,19 @@
+.jumbotron {
+    padding: 4rem 1rem;
+    margin-bottom: 2rem;
+    background-color: transparent;
+    /* border-radius: .3rem; */
+}
+
+body {
+    background-color: rgb(164, 0, 0);
+    color: rgb(228, 228, 228)!important;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  size: 10;
+}
+
+/* i fogot 💀 */
