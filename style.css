@@ -7,8 +7,9 @@ body {
     font-size: 30px;
 }
 
-TB {
+.titlebar {
     border: 5px outset #555;
     background-color: #222;
     text-align: left;
 }
+
