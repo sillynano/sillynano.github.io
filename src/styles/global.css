@@ -1,13 +1,13 @@
 /* Global styles */
 :root {
-    --background: #1e1e2e; 
+    --background: #2d2d2d; 
     --background-light: #fdebf3;
-    --button: #78c2ad;
+    --button: #aaaaaa;
     --text: #fdebf3;
     --text-light: #1e1e2e; 
-    --text-link: #78c2ad;
-    --underline: #375a7f;
-    --header: 'Pacifico', cursive;
+    --text-link: #aaaaaa;
+    --underline: #5a5a5a;
+    --header: 'Josefin Sans', sans-serif; 
     --body: 'Josefin Sans', sans-serif; 
 }
 
@@ -94,8 +94,8 @@ small, li {
 
 /* Badge */
 .badge {
-    background-color: #584966;
-    color: var(--text);
+    background-color: #8b8b8b;
+    color: #ffffff;
     border-radius: 6px;
     font-family: var(--body);
     font-weight: 600;
