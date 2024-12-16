@@ -2,7 +2,7 @@
 title: 'Asteroids'
 description: 'Asteroids on scratch.mit.edu'
 image:
-    url: '/GitHub.webp'
+    url: '/Beta2.svg'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/Beta2.svg'
