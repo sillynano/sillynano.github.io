@@ -16,7 +16,7 @@ const projectsCollection = defineCollection({
       worksImage2: z.object({
         url: z.string(),
         alt: z.string()
-      }),
+      }).optional(),
       platform: z.string(),
       website: z.string(),
     })
