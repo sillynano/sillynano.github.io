@@ -11,4 +11,4 @@ platform: Scratch
 website: https://scratch.mit.edu/projects/942977327/
 ---
 
-I created this back Jan 18, 2024 near the start of the, and the premise of this game is shooting astroids to break down the the asteroids, and I had used Griffpatch's Tutorial for the functionally of the game
+I created this back Jan 18, 2024 near the start of the year, and the premise of this game is shooting astroids to break down the the asteroids, and I had used Griffpatch's Tutorial for the functionally of the game.
